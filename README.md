@@ -1,43 +1,36 @@
-# Analyse du Catalogue Netflix avec Tableau
+# 🎬 Netflix Catalog Trends Analysis (Tableau)
 
-Un dashboard interactif conçu sur Tableau Public pour explorer le catalogue de films et de séries Netflix. Ce projet met en œuvre un processus complet de Business Intelligence, de la préparation des données à la création d'un dashboard interactif et intuitif.
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Data Viz](https://img.shields.io/badge/Data_Viz-Storytelling-blueviolet?style=for-the-badge)
 
-## 🚀 Dashboard Interactif sur Tableau Public
+🇺🇸 **English Version**
 
-**[Cliquez ici pour explorer le dashboard interactif en ligne](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes)**
+## 📌 Project Overview
+This project explores the evolution of the Netflix catalog, analyzing the distribution between Movies and TV Shows, content duration, and release trends over time. The goal was to build a comprehensive **Interactive Dashboard** to understand Netflix's content strategy.
 
-*(Veuillez noter que le chargement peut prendre quelques secondes. Le dashboard est optimisé pour un affichage sur ordinateur.)*
+## 📊 Dashboard Preview
+*(Insert your main dashboard screenshot here)*
+![Netflix Dashboard Preview](/images/Dashboard_Netflix.png)
+
+## 🎯 Key Insights
+*   **Content Strategy:** Analyzed the shift in focus from licensed content to original productions.
+*   **Duration Trends:** Visualized how the average duration of movies has evolved over the decades.
+*   **Geographical Distribution:** Mapped content availability and production origins.
+
+## 🛠️ Technical Implementation
+*   **Data Preparation:** Cleaning and structuring the dataset for optimal performance in Tableau.
+*   **Calculated Fields:** Created custom metrics to handle duration conversion and content categorization.
+*   **Interactivity:** Implemented **Parameters** and **Dashboard Actions** to allow users to filter by Genre, Year, and Rating dynamically.
 
 ---
 
-## 📸 Aperçu du Dashboard
-
-![Aperçu du Dashboard Netflix](Dashboard_Netflix.png)
-
----
+🇫🇷 **Version Française**
 
 ## 🎯 Objectif du Projet
-
-Ce projet vise à répondre à plusieurs questions clés sur le catalogue Netflix en utilisant les fonctionnalités de Tableau :
-*   Quelle est la répartition entre les films et les séries TV ?
-*   Quels sont les pays qui produisent le plus de contenu ?
-*   Comment l'offre de contenu a-t-elle évolué au fil du temps ?
-*   Quels sont les réalisateurs et acteurs les plus prolifiques ?
-
----
+Conception d'un tableau de bord interactif sur Tableau pour explorer les tendances du catalogue Netflix. L'analyse porte sur la répartition Films/Séries, la durée des contenus et l'évolution des ajouts par année.
 
 ## 🛠️ Compétences Mises en Œuvre
+*   **Préparation des données :** Nettoyage et formatage pour Tableau.
+*   **Champs Calculés :** Création de métriques personnalisées pour l'analyse temporelle.
+*   **Interactivité :** Utilisation de filtres dynamiques et de paramètres pour permettre l'exploration des données (drill-down).
 
-*   **Préparation des Données :** Nettoyage des données, gestion des types et assignation des rôles géographiques directement dans Tableau.
-*   **Visualisation Avancée :** Création de graphiques pertinents (diagramme en donut, barres, aires) pour représenter les données.
-*   **Interactivité :** Mise en place de filtres globaux et d'actions de filtrage "graphique à graphique" pour permettre une exploration dynamique et intuitive des données.
-*   **Publication :** Partage du projet via la plateforme Tableau Public.
-
----
-
-## 📂 Contenu du Dépôt
-
-*   **`Analyse du Catalogue Netflix.twbx`** : Le classeur Tableau empaqueté. Ce fichier contient le dashboard et les données. Il peut être ouvert avec Tableau Public Desktop pour explorer la construction du projet en détail.
-*   **'netflix_titles.csv'** : Le jeu de données brut utilisé comme source pour l'analyse dans Tableau.
-*   **`.png`** : La capture d'écran du dashboard final.
-*   **`README.md`** : Ce fichier de présentation.
+*(L'image ci-dessus présente le tableau de bord final).*
