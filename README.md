@@ -9,7 +9,7 @@ This project explores the evolution of the Netflix catalog, analyzing the distri
 
 ## 📊 Dashboard Preview
 *(Insert your main dashboard screenshot here)*
-![Netflix Dashboard Preview](/images/Dashboard_Netflix.png)
+![Netflix Dashboard Preview](Dashboard_Netflix.png)
 
 ## 🎯 Key Insights
 *   **Content Strategy:** Analyzed the shift in focus from licensed content to original productions.
