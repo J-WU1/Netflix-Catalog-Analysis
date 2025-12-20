@@ -17,9 +17,9 @@ This dashboard was designed to answer key business questions regarding the Netfl
 👉 **[Click here to explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes)**
 
 ## 📊 Dashboard Preview
-![Netflix Dashboard](Dashboard_Netflix.png)
+![Netflix Dashboard](/images/Dashboard_Netflix.png)
 
-## 🎯 Key Insights
+## 💡 Key Insights
 *   **US Dominance:** The United States is by far the largest content provider, followed by India.
 *   **Format Shift:** While Movies historically dominate the catalog (approx. 70%), there is a significant upward trend in TV Show production in recent years.
 *   **Content Boom:** A massive spike in content additions is observed starting from 2016.
