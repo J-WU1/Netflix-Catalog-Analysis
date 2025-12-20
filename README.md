@@ -7,30 +7,38 @@
 ## 📌 Project Overview
 This project explores the evolution of the Netflix catalog, analyzing the distribution between Movies and TV Shows, content duration, and release trends over time. The goal was to build a comprehensive **Interactive Dashboard** to understand Netflix's content strategy.
 
+## 🚀 Live Dashboard
+👉 **[Click here to explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes)**
+
 ## 📊 Dashboard Preview
-*(Insert your main dashboard screenshot here)*
-![Netflix Dashboard Preview](Dashboard_Netflix.png)
+![Netflix Dashboard](Dashboard_Netflix.png)
 
 ## 🎯 Key Insights
-*   **Content Strategy:** Analyzed the shift in focus from licensed content to original productions.
-*   **Duration Trends:** Visualized how the average duration of movies has evolved over the decades.
-*   **Geographical Distribution:** Mapped content availability and production origins.
+*   **US Dominance:** The United States is by far the largest content provider, followed by India.
+*   **Format Shift:** While Movies historically dominate the catalog (approx. 70%), there is a significant upward trend in TV Show production in recent years.
+*   **Content Boom:** A massive spike in content additions is observed starting from 2016.
 
 ## 🛠️ Technical Implementation
 *   **Data Preparation:** Cleaning and structuring the dataset for optimal performance in Tableau.
-*   **Calculated Fields:** Created custom metrics to handle duration conversion and content categorization.
+*   **Calculated Fields:** Created custom metrics to handle date parsing and content categorization.
 *   **Interactivity:** Implemented **Parameters** and **Dashboard Actions** to allow users to filter by Genre, Year, and Rating dynamically.
+*   **Visual Analytics:** Created Donut Charts, Horizontal Bar Charts, and Area Charts for trend analysis.
 
 ---
 
 🇫🇷 **Version Française**
 
 ## 🎯 Objectif du Projet
-Conception d'un tableau de bord interactif sur Tableau pour explorer les tendances du catalogue Netflix. L'analyse porte sur la répartition Films/Séries, la durée des contenus et l'évolution des ajouts par année.
+Conception d'un tableau de bord interactif sur Tableau pour explorer les tendances du catalogue Netflix. 
+Ce projet vise à répondre à plusieurs questions clés sur le catalogue Netflix en utilisant les fonctionnalités de Tableau :
+*   Quelle est la répartition entre les films et les séries TV ?
+*   Quels sont les pays qui produisent le plus de contenu ?
+*   Comment l'offre de contenu a-t-elle évolué au fil du temps ?
 
 ## 🛠️ Compétences Mises en Œuvre
 *   **Préparation des données :** Nettoyage et formatage pour Tableau.
 *   **Champs Calculés :** Création de métriques personnalisées pour l'analyse temporelle.
 *   **Interactivité :** Utilisation de filtres dynamiques et de paramètres pour permettre l'exploration des données (drill-down).
+*   **Visualisation Avancée :** Création de graphiques pertinents (Donut, Barres, Aires).
 
 *(L'image ci-dessus présente le tableau de bord final).*
