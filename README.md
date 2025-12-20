@@ -5,7 +5,13 @@
 🇺🇸 **English Version**
 
 ## 📌 Project Overview
-This project explores the evolution of the Netflix catalog, analyzing the distribution between Movies and TV Shows, content duration, and release trends over time. The goal was to build a comprehensive **Interactive Dashboard** to understand Netflix's content strategy.
+This project explores the evolution of the Netflix catalog, analyzing the distribution between Movies and TV Shows, content duration, and release trends over time. It puts into practice a full Business Intelligence process, from data preparation to visual storytelling. The goal was to build a comprehensive **Interactive Dashboard** to understand Netflix's content strategy.
+
+## 🎯 Project Objectives
+This dashboard was designed to answer key business questions regarding the Netflix library:
+*   What is the **breakdown** between Movies and TV Shows?
+*   Which **countries** are the top content producers?
+*   How has the content catalog **evolved** over time?
 
 ## 🚀 Live Dashboard
 👉 **[Click here to explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes)**
